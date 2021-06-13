@@ -1,1 +1,1 @@
-# Symentec
+# Symantec
